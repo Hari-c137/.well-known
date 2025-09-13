@@ -1,2 +1,2 @@
 # .well-known
-discord domain verification through https bypass fix
+bypasser for discord domain verification through HTTPS
